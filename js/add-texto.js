@@ -261,8 +261,8 @@ const linkDePromesa = document.querySelector(`.link__promesa`);
 
 const linkDeAlabanza = document.querySelector(`.link__alabanza`)
 
-linkDeVersiculo.setAttribute(`href`, `https://www.google.com/search?q=${versiculos[elVersiculo][1]}&oq=1+de+corint&gs_lcrp=EgZjaHJvbWUqBwgFEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5NzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8`);
+linkDeVersiculo.setAttribute(`href`, `https://www.google.com/search?q=${versiculos[elVersiculo][1]}+reina+valera+1960&oq=1+de+corint&gs_lcrp=EgZjaHJvbWUqBwgFEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5NzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8`);
 
-linkDePromesa.setAttribute(`href`, `https://www.google.com/search?q=${promesas[laPromesa][1]}&oq=1+de+corint&gs_lcrp=EgZjaHJvbWUqBwgFEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5NzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8`);
+linkDePromesa.setAttribute(`href`, `https://www.google.com/search?q=${promesas[laPromesa][1]}+reina+valera+1960&oq=1+de+corint&gs_lcrp=EgZjaHJvbWUqBwgFEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5NzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8`);
 
-linkDeAlabanza.setAttribute(`href`, `https://www.google.com/search?q=${alabanza[laAlabanza][1]}&oq=1+de+corint&gs_lcrp=EgZjaHJvbWUqBwgFEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5NzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8`);
+linkDeAlabanza.setAttribute(`href`, `https://www.google.com/search?q=${alabanza[laAlabanza][1]}+reina+valera+1960&oq=1+de+corint&gs_lcrp=EgZjaHJvbWUqBwgFEAAYgAQyBggAEEUYOTIHCAEQLhiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE5NzEzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8`);
